@@ -1,0 +1,117 @@
+PS D:\honey\rs_1\dataset_maker> python combine_excel.py
+Project folder: D:\honey\rs_1\dataset_maker
+Excel files found: 32
+
+Processing: Old-Age-Homes-in-Andhra-Pradesh-English.xlsx
+  Sheet: Andhra Pradesh | Rows: 21
+
+Processing: Old-Age-Homes-in-Arunachal-Pradesh-English.xlsx
+  Sheet: Arunachal Pradesh | Rows: 1
+
+Processing: Old-Age-Homes-in-Assam-English.xlsx
+  Sheet: Assam | Rows: 7
+
+Processing: Old-Age-Homes-in-Bihar-English.xlsx
+  Sheet: Bihar | Rows: 3
+
+Processing: Old-Age-Homes-in-Chandigarh-English.xlsx
+  Sheet: Chandigarh | Rows: 3
+
+Processing: Old-Age-Homes-in-Chhattisgarh-English.xlsx
+  Sheet: Chhattisgarh | Rows: 4
+
+Processing: Old-Age-Homes-in-Dadra-Nagar-English.xlsx
+  Sheet: Dadar Nagar Haveli | Rows: 1
+
+Processing: Old-Age-Homes-in-Delhi-English.xlsx
+  Sheet: Delhi | Rows: 14
+
+Processing: Old-Age-Homes-in-Goa-English.xlsx
+  Sheet: Goa | Rows: 8
+
+Processing: Old-Age-Homes-in-Gujarat-English.xlsx
+  Sheet: Gujarat | Rows: 23
+
+Processing: Old-Age-Homes-in-Haryana-English.xlsx
+  Sheet: Haryana | Rows: 11
+
+Processing: Old-Age-Homes-in-Himachal-Pradesh-English.xlsx
+  Sheet: Himachal Pradesh | Rows: 9
+
+Processing: Old-Age-Homes-in-Jharkhand-English.xlsx
+  Sheet: Jharkhand | Rows: 2
+
+Processing: Old-Age-Homes-in-Karnataka-English.xlsx
+  Sheet: Karnataka | Rows: 41
+
+Processing: Old-Age-Homes-in-Kerala-English.xlsx
+  Sheet: Kerala | Rows: 126
+
+Processing: Old-Age-Homes-in-Ladakh-English.xlsx
+  Sheet: Ladakh | Rows: 1
+
+Processing: Old-Age-Homes-in-Madhya-Pradesh-English.xlsx
+  Sheet: Madhya Pradesh | Rows: 10
+
+Processing: Old-Age-Homes-in-Maharashtra-English.xlsx
+  Sheet: Maharashtra | Rows: 63
+
+Processing: Old-Age-Homes-in-Manipur-English.xlsx
+  Sheet: Manipur | Rows: 1
+
+Processing: Old-Age-Homes-in-Meghalaya-English.xlsx
+  Sheet: Meghalaya | Rows: 1
+
+Processing: Old-Age-Homes-in-Mizoram-English.xlsx
+  Sheet: Mizoram | Rows: 2
+
+Processing: Old-Age-Homes-in-Nagaland-English.xlsx
+  Sheet: Nagaland | Rows: 1
+
+Processing: Old-Age-Homes-in-Odisha-English.xlsx
+  Header not found: Odisha
+
+Processing: Old-Age-Homes-in-Puducherry-English.xlsx
+  Sheet: Puducherry | Rows: 2
+
+Processing: Old-Age-Homes-in-Punjab-English.xlsx
+  Sheet: Punjab | Rows: 6
+
+Processing: Old-Age-Homes-in-Rajasthan-English.xlsx
+  Sheet: Rajasthan | Rows: 27
+
+Processing: Old-Age-Homes-in-Tamil-Nadu-English.xlsx
+  Sheet: Tamil Nadu | Rows: 69
+
+Processing: Old-Age-Homes-in-Telangana-English.xlsx
+  Sheet: Telangana | Rows: 24
+
+Processing: Old-Age-Homes-in-Tripura-English.xlsx
+  Sheet: Tripura | Rows: 3
+
+Processing: Old-Age-Homes-in-Uttar-Pradesh-English.xlsx
+  Sheet: Uttar Pradesh | Rows: 19
+
+Processing: Old-Age-Homes-in-Uttrakhand-English.xlsx
+  Sheet: Uttrakhand | Rows: 4
+
+Processing: Old-Age-Homes-in-West-Benga-Englishl.xlsx
+  Sheet: West Bengal | Rows: 11
+
+============================================================
+ALL-INDIA OLD-AGE-HOME DATASET
+============================================================
+Excel files discovered : 32
+Worksheets combined    : 31
+Total records combined : 518
+Rows reported combined : 518
+Standard columns       : 15
+Extra columns retained : 2
+Sheets needing review  : 1
+
+Output file:
+D:\honey\rs_1\dataset_maker\output\All_India_Old_Age_Homes.xlsx
+
+Review File_Summary and Unparsed_Sheets.
+PS D:\honey\rs_1\dataset_maker> 
+

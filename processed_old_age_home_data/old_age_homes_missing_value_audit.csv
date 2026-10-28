@@ -1,0 +1,21 @@
+﻿,missing_count,missing_percent,dtype
+Remarks,494,95.37,string
+Email,254,49.03,string
+Bed Capacity,127,24.52,float64
+Care Type,95,18.34,string
+Gender,91,17.57,string
+Mgmt,65,12.55,string
+Telephone,7,1.35,string
+S.No,0,0.0,int64
+State,0,0.0,string
+District,0,0.0,string
+City / Taluka,0,0.0,string
+P.O./ Locality / Village,0,0.0,string
+Home Name,0,0.0,string
+Address,0,0.0,string
+Pin Code,0,0.0,int64
+Facility Type,0,0.0,string
+Source,0,0.0,string
+Source_File,0,0.0,string
+Source_Sheet,0,0.0,string
+Source_Row,0,0.0,int64
